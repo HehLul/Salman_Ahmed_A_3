@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "lib\\derbytools.jar",
+        "lib\\derby.jar",
+        "lib\\derbyshared.jar"
+    ]
+}

@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Apr 07 16:37:06 EDT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217): instance a816c00e-018e-ba47-682a-000007189b38 
+on database directory C:\Users\amdsa\Desktop\COMP2800\assgn3\Salman_Ahmed_A_3 - Copy\addressbook with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@33909752 
+Loaded from file:/C:/Users/amdsa/Desktop/COMP2800/assgn3/Salman_Ahmed_A_3%20-%20Copy/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=20.0.1+9-29
+user.dir=C:\Users\amdsa\Desktop\COMP2800\assgn3\Salman_Ahmed_A_3 - Copy
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
